@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.section-top{
+    top:0;
+    width: 100%;
+    height: 100%;
+    /* color: white; */
+    margin-bottom: 2rem;
+}
+
+/* .card-body{
+    padding: auto;
+    margin:auto;
+    align-items: center;
+    align-content: center;
+} */
+
+.section-content{
+    margin-top: 3rem;
+}
+
+.section-title{
+    text-align: center;
+    text-transform: capitalize;
+    position: relative;
+    margin-top: 0.25rem;
+    margin-bottom: 2.5rem;
+}
+
+.section-title::after{
+    content: "";
+    position: absolute;
+    display: block;
+    left: 46%;
+    width: 8%;
+    height: 0.2rem;
+    background-color: yellow;
+    margin-top: 0.5rem;
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+/* .card{
+    border: solid 2px yellow;
+} */
+
+::-webkit-scrollbar{
+    width: 0.625rem;
+}
+
+::-webkit-scrollbar-track{
+    color: white;
+}
+
+::-webkit-scrollbar-thumb{
+    background: yellow;
+}
