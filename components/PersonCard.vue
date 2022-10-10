@@ -23,6 +23,11 @@
 <style scoped>
     .card-title, .card-text{
         text-transform: capitalize;
+        margin-top: 2rem;
+    }
+
+    .card-text{
+        font-size: 1.5rem;
     }
 
     img{

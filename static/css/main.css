@@ -3,7 +3,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     background-color: rgba(0, 0, 0, 0.7);
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
 }
 
 html{
@@ -17,6 +17,7 @@ html{
     color: white;
     margin-bottom: 2rem;
 }
+
 
 /* .card-body{
     padding: auto;
@@ -49,7 +50,7 @@ html{
 }
 
 h2{
-    text-transform: capitalize;
+    text-transform: capitalize;;
 }
 
 h3{
