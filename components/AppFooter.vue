@@ -1,5 +1,5 @@
 <template>
-    <footer class="container-fluid foot fixed-bottom">Created by: Niraj Parmar Copyright<i class="fas fa-copyright mx-2"></i>{{year}}</footer>
+    <footer class="container-fluid foot fixed-bottom">Developed by: Niraj Parmar Copyright<i class="fas fa-copyright mx-2"></i>{{year}}</footer>
 </template>
 
 <script setup>

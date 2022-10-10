@@ -72,11 +72,6 @@
         font-size: 1.5rem;
     }
 
-    h3{
-        color: red;
-        font-size: 1rem;
-    }
-
     .person-container{
         margin-top: 2rem;
     }

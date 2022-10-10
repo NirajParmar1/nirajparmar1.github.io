@@ -2,7 +2,7 @@
     <div class="overlay">
       <div class="row content">
         <div class="circle">
-          <img class="image-fluid" src="@/static/images/goju-fist-bg-transparent-640x658.png" alt="Gojukai Logo">
+          <img class="image-fluid" src="/static/images/goju-fist-bg-transparent-640x658.png" alt="Gojukai Logo">
         </div>
         <h1 class="title">Karate-Do Gojukai India Gujarat</h1>
         <h2 class="tagline">Best place to learn Goju-Ryu Karate in Ahmedabad</h2>

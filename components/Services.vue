@@ -22,7 +22,7 @@
         },
 
         {
-            image:`/static/images/sports.jpg`,
+            image:`/static/images/Sports.jpg`,
             alt:`Sports Karate`,
             title:`Sports Karate`,
             text:`Preparing students for various local, state, national, and international competitive tournaments`
