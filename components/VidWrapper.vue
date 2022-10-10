@@ -1,7 +1,7 @@
 <template>
     <div class="vidWrapper"> 
         <video loop muted autoplay>
-            <source src="/static/vids/KGI_Edited_Video.mp4"/>
+            <source src="/static/vids/KGIVideo.mp4"/>
         </video>
     </div>
 </template>
